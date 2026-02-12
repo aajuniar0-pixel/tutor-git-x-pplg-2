@@ -1,2 +1,4 @@
 nama:king ajun
 kelas: xpplg 2
+jenis kelamain : pria 
+sekolah: smk budi bakti ciwidey
